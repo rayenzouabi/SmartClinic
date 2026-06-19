@@ -1,5 +1,5 @@
 # SmartClinic
-🚀 Full-Stack BI & AI Project | Smart Financial & Operational Management Platform
+🚀 Full-Stack BI & AI Project | Smart Financial & Operational Management Platform ( The source code is private )
 I’m excited to showcase one of my most advanced projects: an intelligent web-based platform developed for Bandsmile Orthopedic Clinic in Geneva.
 This project combines Web Development, Business Intelligence, Data Analytics, and Machine Learning into one integrated solution designed to optimize both financial and internal clinical operations.
 🔹 Key Features:
